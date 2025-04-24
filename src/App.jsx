@@ -34,6 +34,7 @@ import GovtRoutes from "./Govt/routes/Govtroutes";
 import OnlyHotelRoutes from "./hotel/rotues/OnlyHotelRoutes";
 import PrivacyPolicy from "./abouthotel/checkin/PrivacyPolicy";
 import Hotelroutes from "./hotelQr/routes/Hotelroutes";
+import AdminRoutes from "./admin/routes/AdminRoutes";
 
 const App = () => {
   return (
