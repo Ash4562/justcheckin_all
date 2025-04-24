@@ -44,8 +44,7 @@ const App = () => {
         <GovtRoutes />
         <Hotelroutes />
         <OnlyHotelRoutes />
-        {/* <AboutHotelroutes /> */}
-        {/* Main Page + Privacy Page Routing */}
+  
         <Routes>
     {/* Home Route */}
     <Route path="/" element={<AboutHotelroutes />} />    
