@@ -30,13 +30,10 @@
 import React from "react";
 import { HashRouter, Route, Routes } from "react-router-dom";
 import AboutHotelroutes from "./abouthotel/routes/AboutHotelroutes";
-import AdminRoutes from "./admin/routes/AdminRoutes";
 import GovtRoutes from "./Govt/routes/Govtroutes";
-import Hotelroutes from "./hotelQr/routes/Hotelroutes";
-// import OnlyHotelRoutes from "./hotel/rotues/onlyHotelRoutes";
 import OnlyHotelRoutes from "./hotel/rotues/OnlyHotelRoutes";
-import All from "./abouthotel/checkin/All"; // 👈 This is your main single-page content
 import PrivacyPolicy from "./abouthotel/checkin/PrivacyPolicy";
+import Hotelroutes from "./hotelQr/routes/Hotelroutes";
 
 const App = () => {
   return (
