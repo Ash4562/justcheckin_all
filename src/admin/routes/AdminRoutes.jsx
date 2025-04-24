@@ -35,7 +35,7 @@ import UserDetailsPassport from "../components/pages/userDetailsCart/UserDetails
 // import EditPassportUser from "../components/pages/userDetailsCart/EditPassportUser";
 import EditPassportUser from "../components/pages/userDetailsCart/EditPassportUser ";
 import UserDravingLicdetails from "../components/pages/userDetailsCart/UserDravingLicdetails";
-import EditDravingLicDetials from "../components/pages/userDetailsCart/editDravingLicDetials";
+import EditDravingLicDetials from "../components/pages/userDetailsCart/EditDravingLicDetials";
 import UserVoterDetail from "../components/pages/userDetailsCart/UserVoterDetail";
 import EditVoterDetails from "../components/pages/userDetailsCart/EditVoterDetails";
 import AdhharUserDetails from "../components/pages/AdhharUserDetails";
